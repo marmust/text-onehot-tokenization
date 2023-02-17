@@ -4,10 +4,10 @@ a system to onehot encode text from a dictionary
 
 create an encoder_words.txt file with your vocabulary seperated by \n like so:
 
-apple
-banana
-fruit
-etc...
+apple\n
+banana\n
+fruit\n
+etc...\n
 
 
 run the function with the text you want to tokenize and you will get a 1D tensor from the text
